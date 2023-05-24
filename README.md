@@ -38,9 +38,7 @@ This returns a ```Map<String,dynamic>```, the keys to this map are ```seconds```
 
 That was one of the tactics used in the project [pub.dev](https://github.com/srnunio/flutter_pub_dev)
 
-<p float="left">
-  <img src="./smartmockups.png" width=400 /> 
-</p>
+![Usecase](https://github.com/srnunio/timed/blob/master/smartmockups.png)
 
 # Support
 
