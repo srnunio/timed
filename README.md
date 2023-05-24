@@ -2,8 +2,6 @@
 
 Calculates the time interval between two dates in seconds, minutes, days, weeks, months, or years.
 
-**Note:** if the interval is longer than 2 years it will return to that of the informed
-
 ## Installation
 
 ```yaml
