@@ -12,11 +12,14 @@ dev_dependencies:
 ## Usage
 
 ```dart
+import 'package:timed/timed.dart';
+
 var result = Timed.get(to: DateTime(2022, 05, 01));  
 ```
 or 
 
 ```dart
+import 'package:timed/timed.dart';
 
 var to = DateTime(2022, 05, 01);
 var from = DateTime(2022, 12, 01);
@@ -27,6 +30,8 @@ var result = Timed.get(to: to, from: from);
 or 
 
 ```dart
+import 'package:timed/timed.dart';
+
 var result = DateTime.now().toTimed;
 ```
 
