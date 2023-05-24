@@ -1,4 +1,4 @@
-# timed
+# [timed](https://pub.dev/packages/timed)
 
 Calculates the time interval between two dates in seconds, minutes, days, weeks, months, or years.
 
