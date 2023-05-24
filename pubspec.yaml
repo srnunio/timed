@@ -1,6 +1,6 @@
 name: timed
 description: Calculates the time interval between two dates in seconds, minutes, days, weeks, months, or years.
-version: 0.0.1
+version: 0.0.1+2
 homepage: https://github.com/srnunio/timed
 repository: https://github.com/srnunio/timed
 
